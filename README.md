@@ -1,6 +1,6 @@
 # Prazer, me chamo Gabriel Alves Almeida Cardoso
 Encorajado por colegas de turma e de curso, resolvi publicar aqui resoluções feitas por mim para concluir as listas de algoritmos, com os seguintes temas:
-</br>
+#
 Lista 1: Fila, Pilha e Vetor
 </br>
 Lista 2: Árvores Binárias e AVL
